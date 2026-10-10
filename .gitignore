@@ -1,0 +1,46 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE and secrets
+.vscode/
+.idea/
+.env
+.env.*
+
+# Dataset images and labels
+/train/
+/valid/
+/test/
+/cleaned_labels/
+/deduplicated_dataset/
+/final_cleaned_dataset/
+/final_cleaned_dataset_no_conflicts/
+/generated_background/
+
+# Generated previews
+/annotation_previews/
+/background_review_contact_sheets/
+/flagged_image_contact_sheets/
+
+# Training outputs and weights
+/runs/
+/weights/
+*.pt
+*.onnx
+*.engine
+*.cache
+
+# Large intermediate files
+/image_sanity_details.csv
+
+# Archives and temporary files
+*.zip
+*.log
+.DS_Store
+
+# Generated analysis reports containing local paths
+/duplicate_analysis.csv
+/duplicate_label_review.csv

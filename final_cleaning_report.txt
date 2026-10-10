@@ -1,0 +1,71 @@
+FINAL DATASET CLEANING REPORT
+
+Images: 28338
+Bounding boxes: 36060
+Empty labels: 13270
+Missing labels: 0
+Orphan labels: 0
+Invalid annotation lines: 0
+Duplicate groups: 23
+Cross-split duplicate groups: 15
+
+Duplicate hash: 2ff833a38880afc2c45babcf6418dd0b83b7f6674d1631e3aa35e3808fb2b377
+  train: img-325_jpg.rf.4a83b7673f16421447a58eff626ae18f.jpg
+  valid: img-325_jpg.rf.909909e9289fbb2bc81a2ac479f4c4d8.jpg
+
+Duplicate hash: c6e8184ebacd415373ebed3532bc4fca61d556a846d7e8398655f00f7c20a7a5
+  train: img-373_jpg.rf.4d2433e0f1bd9ba5fc1f1d067f78888e.jpg
+  valid: img-373_jpg.rf.113d1376950c4b5eba59f8c9422509b3.jpg
+
+Duplicate hash: d0571825b2f66ecc01e41b099cc5f923429a41a791327cfe685720af3e196826
+  train: img-380_jpg.rf.514c9927cb668f05ae201cbad8bebc60.jpg
+  valid: img-380_jpg.rf.2d56efed888901912b149ac189172aed.jpg
+
+Duplicate hash: 52bde0277c74c215981665d6a9d9f62605b16eb59e95797ceb616caca10c6199
+  train: img-387_jpg.rf.e2a4a309c31f87b0c5de6681ea237053.jpg
+  valid: img-387_jpg.rf.1dbbb6a09bf3294dfc9821c54e8844b6.jpg
+
+Duplicate hash: 8c8cc25655b5133a1300112bb2862dc5f3e363f48d9ca2963ea8008019c4069e
+  train: img-403_jpg.rf.63935b9f7775480f5a1bd1a3a3de6898.jpg
+  test: img-403_jpg.rf.e1dc8f696191b295de26b326a4b5716a.jpg
+
+Duplicate hash: 9e4acf1526764eace7950635f7fb59ef13d3fd0914f29cf8cc4280382766f281
+  train: img-404_jpg.rf.23f9f3d9c739ec07b057489955810506.jpg
+  valid: img-404_jpg.rf.d12d1d045f11552844f2f187dcbc499d.jpg
+
+Duplicate hash: affdf0c1487314eb40af059da521f21a8b10625d833222f47a36d45d26b5a2aa
+  train: img-411_jpg.rf.878e0a3c41bdf4b8806101bce5f19dfd.jpg
+  valid: img-411_jpg.rf.46c8f3f1b20807efac2b789634283d40.jpg
+
+Duplicate hash: c59c7c24554c84dd11d96d9618f96f5d1511071e336a573ae7a50b37315b240d
+  train: img-451_jpg.rf.8f495c0c81608a668fa2857516b8e2cb.jpg
+  valid: img-451_jpg.rf.7930945017a0e3f7ae811d38b2cbc67a.jpg
+
+Duplicate hash: 65b7fc383d159954d2de4c6f2e5c98c428f4d52eb81d4f703321534a78971f94
+  train: img-456_jpg.rf.4566372311c5a8923a4cde38e4cd382b.jpg
+  test: img-456_jpg.rf.becb797a4df723de8fc217057916ba5c.jpg
+
+Duplicate hash: 026412d38ae15cca9e8b1420021b98a1e8093f2e2dbd5b1f4b78f2cf1d33bb7d
+  train: img-463_jpg.rf.b10a88414288a9e8c453b1ac395ea263.jpg
+  valid: img-463_jpg.rf.23c9ea342f2f48185910e8da673ae77d.jpg
+
+Duplicate hash: 993cc426c052749e8fdd0325ca3b359b7d0772876f147e4f20f1d9bf1e8a6c97
+  train: img-469_jpg.rf.fc40a496624e1b5c9b73341d1872b093.jpg
+  test: img-469_jpg.rf.6969eaf2ffd3409376c3df746be7d1ae.jpg
+
+Duplicate hash: c1a35b9674ae8029e0ca3706aebccbccfb0b428a271d120db80d034c69a784d9
+  train: img-526_jpg.rf.db46c81b1e47547ae3038f61146018c1.jpg
+  valid: img-526_jpg.rf.2b311487481ba3611bb364cadb0efef5.jpg
+
+Duplicate hash: fa125ec591f21cb335235a98571fad9a40a8bed075c3656e06ac1012cc50dea3
+  train: img-527_jpg.rf.aca42f566a1ff739f0b649e2c008ccd6.jpg
+  valid: img-527_jpg.rf.e5687efadf6cdcf5230b0e8cd2d95301.jpg
+
+Duplicate hash: 721096cd655254225ab41c9f07c7acf1b2a6ad675690c90c0637cbb4865f714b
+  train: img-552_jpg.rf.9777003c54b79b06d94602327edf2f8f.jpg
+  valid: img-552_jpg.rf.1e4386187f075cea9f1ecb8f350d09b3.jpg
+
+Duplicate hash: 6f1f2f60d6032dbdd8f41957d7a7197a9ffc8fa2ed1f0e3ad7aa003dbce07cb2
+  valid: img-427_jpg.rf.3393b8a5af8cfb577b670f5129ef0397.jpg
+  test: img-427_jpg.rf.80c7aa47c9b17e613b684841e0a03391.jpg
+

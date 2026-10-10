@@ -1,0 +1,93 @@
+REMOVE ALL CONFLICTING DUPLICATE GROUPS REPORT
+=======================================================
+Source dataset: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset
+Output dataset: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts
+Unique image-content groups: 28315
+Duplicate groups excluded entirely: 23
+Images removed from duplicate groups: 46
+Images copied to output: 28292
+Source images scanned: 28338
+
+Removed images by split:
+  train: 30
+  valid: 12
+  test: 4
+
+Retained images by split:
+  train: 22791
+  valid: 3256
+  test: 2245
+
+Excluded duplicate groups:
+Group 1 (SHA-256 026412d38ae15cca9e8b1420021b98a1e8093f2e2dbd5b1f4b78f2cf1d33bb7d):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-463_jpg.rf.b10a88414288a9e8c453b1ac395ea263.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-463_jpg.rf.23c9ea342f2f48185910e8da673ae77d.jpg
+Group 2 (SHA-256 13aecef3f7f039fb7797897932eea93191ecd979496f12e6929d41a5a06b66a3):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-583_jpg.rf.2e84d1c4a02c3b3686c9492b8cd6f7c4.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-583_jpg.rf.3370812571d14825196d47b8d85212d4.jpg
+Group 3 (SHA-256 1cbfcf8016349edf563db1f45cf075f75430cc66d52ce0e987ee0bd23b6f542c):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-595_jpg.rf.64435c99f6f528a185f427c8b5f425aa.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-595_jpg.rf.6b7c783e87c2df3c5e5991d3175e487a.jpg
+Group 4 (SHA-256 2ff833a38880afc2c45babcf6418dd0b83b7f6674d1631e3aa35e3808fb2b377):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-325_jpg.rf.4a83b7673f16421447a58eff626ae18f.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-325_jpg.rf.909909e9289fbb2bc81a2ac479f4c4d8.jpg
+Group 5 (SHA-256 4a5c54f2dc6ce90480a53933e2887c2f6a58d849fdcd05792ef2d7eb0c5094f0):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-361_jpg.rf.5bb9325f2975122cabee12d18916019d.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-361_jpg.rf.6f1f97219ce613562f51d3062a41d7ec.jpg
+Group 6 (SHA-256 52bde0277c74c215981665d6a9d9f62605b16eb59e95797ceb616caca10c6199):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-387_jpg.rf.e2a4a309c31f87b0c5de6681ea237053.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-387_jpg.rf.1dbbb6a09bf3294dfc9821c54e8844b6.jpg
+Group 7 (SHA-256 617b63f6acf3e7245cdcad0635c6132981b73ed173a2ad7cf88de30daf56558c):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-377_jpg.rf.3ddb21c4b2ecc40e758c73574086844d.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-377_jpg.rf.7dd2a7e445d357698b4e7125d526cd5a.jpg
+Group 8 (SHA-256 65b7fc383d159954d2de4c6f2e5c98c428f4d52eb81d4f703321534a78971f94):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-456_jpg.rf.4566372311c5a8923a4cde38e4cd382b.jpg
+  [test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/test/images/img-456_jpg.rf.becb797a4df723de8fc217057916ba5c.jpg
+Group 9 (SHA-256 6f1f2f60d6032dbdd8f41957d7a7197a9ffc8fa2ed1f0e3ad7aa003dbce07cb2):
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-427_jpg.rf.3393b8a5af8cfb577b670f5129ef0397.jpg
+  [test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/test/images/img-427_jpg.rf.80c7aa47c9b17e613b684841e0a03391.jpg
+Group 10 (SHA-256 721096cd655254225ab41c9f07c7acf1b2a6ad675690c90c0637cbb4865f714b):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-552_jpg.rf.9777003c54b79b06d94602327edf2f8f.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-552_jpg.rf.1e4386187f075cea9f1ecb8f350d09b3.jpg
+Group 11 (SHA-256 7ba88b21faa5cf8e24b72626a23b9fe6d90dafa7d88ac19383fafbe18e5d84be):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-588_jpg.rf.1dcd654f17843806c113960e5710eb37.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-588_jpg.rf.b5314cac1a5f2b52563b417b978c9758.jpg
+Group 12 (SHA-256 8c8cc25655b5133a1300112bb2862dc5f3e363f48d9ca2963ea8008019c4069e):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-403_jpg.rf.63935b9f7775480f5a1bd1a3a3de6898.jpg
+  [test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/test/images/img-403_jpg.rf.e1dc8f696191b295de26b326a4b5716a.jpg
+Group 13 (SHA-256 96878f03b3aea7c4f0b3140bc02d02f1fabeba33d4287b895daed68539867311):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-516_jpg.rf.6e9f993400b779e19b66f1222c30a538.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-516_jpg.rf.a70241b57b15ed6e680089d374c809c7.jpg
+Group 14 (SHA-256 993cc426c052749e8fdd0325ca3b359b7d0772876f147e4f20f1d9bf1e8a6c97):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-469_jpg.rf.fc40a496624e1b5c9b73341d1872b093.jpg
+  [test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/test/images/img-469_jpg.rf.6969eaf2ffd3409376c3df746be7d1ae.jpg
+Group 15 (SHA-256 9e4acf1526764eace7950635f7fb59ef13d3fd0914f29cf8cc4280382766f281):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-404_jpg.rf.23f9f3d9c739ec07b057489955810506.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-404_jpg.rf.d12d1d045f11552844f2f187dcbc499d.jpg
+Group 16 (SHA-256 affdf0c1487314eb40af059da521f21a8b10625d833222f47a36d45d26b5a2aa):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-411_jpg.rf.878e0a3c41bdf4b8806101bce5f19dfd.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-411_jpg.rf.46c8f3f1b20807efac2b789634283d40.jpg
+Group 17 (SHA-256 c1a35b9674ae8029e0ca3706aebccbccfb0b428a271d120db80d034c69a784d9):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-526_jpg.rf.db46c81b1e47547ae3038f61146018c1.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-526_jpg.rf.2b311487481ba3611bb364cadb0efef5.jpg
+Group 18 (SHA-256 c59c7c24554c84dd11d96d9618f96f5d1511071e336a573ae7a50b37315b240d):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-451_jpg.rf.8f495c0c81608a668fa2857516b8e2cb.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-451_jpg.rf.7930945017a0e3f7ae811d38b2cbc67a.jpg
+Group 19 (SHA-256 c6e8184ebacd415373ebed3532bc4fca61d556a846d7e8398655f00f7c20a7a5):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-373_jpg.rf.4d2433e0f1bd9ba5fc1f1d067f78888e.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-373_jpg.rf.113d1376950c4b5eba59f8c9422509b3.jpg
+Group 20 (SHA-256 d0571825b2f66ecc01e41b099cc5f923429a41a791327cfe685720af3e196826):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-380_jpg.rf.514c9927cb668f05ae201cbad8bebc60.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-380_jpg.rf.2d56efed888901912b149ac189172aed.jpg
+Group 21 (SHA-256 e2007394c10fb68b177c397ba1b18fcef9ddc73f36e0332e47abe85f0b4e394f):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-358_jpg.rf.292fd275bf94a1b9d30354f2a45fffe2.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-358_jpg.rf.7e65c69e48f261107328608ba93a1182.jpg
+Group 22 (SHA-256 ec6bd2c52c5f761488ff0088c41e08b621619b472bd0595de0951287c7b8d006):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-381_jpg.rf.2d7f4d7977fc2088d03eb4c19c5e4c90.jpg
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-381_jpg.rf.8c9f195595b8578ec4d3d33072156d55.jpg
+Group 23 (SHA-256 fa125ec591f21cb335235a98571fad9a40a8bed075c3656e06ac1012cc50dea3):
+  [train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/train/images/img-527_jpg.rf.aca42f566a1ff739f0b649e2c008ccd6.jpg
+  [valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/deduplicated_dataset/valid/images/img-527_jpg.rf.e5687efadf6cdcf5230b0e8cd2d95301.jpg
+
+Verification: PASSED
+No exact duplicate images remain across splits.

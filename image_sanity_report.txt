@@ -1,0 +1,147 @@
+READ-ONLY IMAGE SANITY CHECK
+====================================================================
+Dataset: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts
+Images inspected: 28,292
+Total image file size: 3097.21 MiB
+
+SPLIT SUMMARY
+--------------------------------------------------------------------
+TRAIN: images=22,791, readable=22,791, unreadable=0, backgrounds=11,416, annotated=11,375, missing labels=0
+  width min/median/max=150/720/5712; height min/median/max=150/640/3213
+  file size min/median/max=0.00 MiB/0.06 MiB/4.52 MiB
+VALID: images=3,256, readable=3,256, unreadable=0, backgrounds=879, annotated=2,377, missing labels=0
+  width min/median/max=90/720/5712; height min/median/max=60/720/3213
+  file size min/median/max=0.00 MiB/0.06 MiB/4.27 MiB
+TEST: images=2,245, readable=2,245, unreadable=0, backgrounds=975, annotated=1,270, missing labels=0
+  width min/median/max=194/720/3680; height min/median/max=135/720/2760
+  file size min/median/max=0.00 MiB/0.06 MiB/1.52 MiB
+
+OVERALL IMAGE CHARACTERISTICS
+--------------------------------------------------------------------
+Width px: min=90, p25=640, median=720, p75=720, max=5712
+Height px: min=60, p25=640, median=720, p75=720, max=3213
+Pixels/image: min=5,400, median=518,400, max=18,352,656
+Aspect ratio W/H: min=0.562, median=1.000, max=2.869
+File size: min=0.00 MiB, median=0.06 MiB, p95=0.27 MiB, max=4.52 MiB
+
+IMAGE FORMATS
+--------------------------------------------------------------------
+JPEG: 28,292
+
+COLOUR MODES
+--------------------------------------------------------------------
+RGB: 28,292
+
+WARNINGS / ERRORS
+--------------------------------------------------------------------
+Small/very-large dimension flags: 451
+CHECK_SMALL_DIMENSION: train/images/-1_jpg.rf.ecc2a6b28151b68382fd92e488a591ae.jpg
+CHECK_SMALL_DIMENSION: train/images/-2_jpg.rf.0709ddd496547e71cb4dd06a3f65b348.jpg
+CHECK_SMALL_DIMENSION: train/images/-2_jpg.rf.d13785b4af6cdc296b13ba1cfe3e755e.jpg
+CHECK_SMALL_DIMENSION: train/images/-4_jpg.rf.9c9f1d92a804e5fab9fd03d2916e9ea7.jpg
+CHECK_SMALL_DIMENSION: train/images/-_jpg.rf.ec890f5a02034f1f58c6a887a3ab9425.jpg
+CHECK_SMALL_DIMENSION: train/images/172_jpg.rf.18d824a77458e3d13d745a0cffbd2737.jpg
+CHECK_VERY_LARGE_DIMENSION: train/images/20240423215045-2-_jpg.rf.3277813d5f4c2451c0db7feb71eee2cf.jpg
+CHECK_VERY_LARGE_DIMENSION: train/images/20240423215045-3-_jpg.rf.af5f8dc184edec3993a1b888b5cfce1f.jpg
+CHECK_VERY_LARGE_DIMENSION: train/images/20240423215045-4-_jpg.rf.923b4dc34a6861cba2759cd994ad7b59.jpg
+CHECK_SMALL_DIMENSION: train/images/290_jpg.rf.d34acab368d303938cc78bfc49502ce5.jpg
+CHECK_SMALL_DIMENSION: train/images/3060647815e9b2e042d8d547ab055a4a_jpg.rf.9036a39357cbb79a9d6f81e6647c990e.jpg
+CHECK_SMALL_DIMENSION: train/images/3ecd474f2685a57ec2f1d320ec69a7a7_jpg.rf.1b1f092d16b13385b8438d02a698db7d.jpg
+CHECK_SMALL_DIMENSION: train/images/42a76c7ff4f2b440d57aab2efacfba1d_jpg.rf.ead644dd53ad1ea7237eb5bfa537185e.jpg
+CHECK_SMALL_DIMENSION: train/images/4eb0a1e3192daeb170b4f516847bd902_jpg.rf.f1ac6ed4128c4631f6578f2f2b19a302.jpg
+CHECK_SMALL_DIMENSION: train/images/605_jpg.rf.00dc67e6075425243c02b3ece4df05ac.jpg
+CHECK_SMALL_DIMENSION: train/images/6b107f130daaf3beb2e941cc46e201e6_jpg.rf.10b7f1805bafcd3d87e4707c4e15dacf.jpg
+CHECK_SMALL_DIMENSION: train/images/7e577e61faa800de47dd4c9f105f3337_jpg.rf.48b91141251c2dc0bf9388206479e710.jpg
+CHECK_SMALL_DIMENSION: train/images/8ae55bdf00b00fe9b21a46c664cd6817_jpg.rf.132f0960219b806ec784cf453fe373b8.jpg
+CHECK_SMALL_DIMENSION: train/images/95e2925cdf3f54cfab3278879c2a25c8_jpg.rf.98b44e91ad4bc7f376754e0f88b3fc76.jpg
+CHECK_SMALL_DIMENSION: train/images/a13e65a1c253b73c44da2109d00c016c_jpg.rf.05bc12eab037bff0aab695f0f37a5616.jpg
+CHECK_SMALL_DIMENSION: train/images/cb0014ec983981480c35fcafa98bf681_jpg.rf.3fcaaab72cb50e7bbd0ce1f651ca24d7.jpg
+CHECK_SMALL_DIMENSION: train/images/d013c27148ef4c33afc9f8529fac2ba4_jpg.rf.cfd4180068fda254a1260fef042df3e6.jpg
+CHECK_SMALL_DIMENSION: train/images/e4dce181af9bf5ad7dbc3786e0f86041_jpg.rf.d782e42d843798adb5b2bf03d80cc170.jpg
+CHECK_SMALL_DIMENSION: train/images/ebf69705d98f49b5094dbb0d80820c67_jpg.rf.3139656ab8d6062b342c3f11e53aba73.jpg
+CHECK_SMALL_DIMENSION: train/images/fb10fed319571f84d443346dd6e93d03_jpg.rf.679e7245853a352c48256b7d78e75031.jpg
+CHECK_SMALL_DIMENSION: train/images/idges_jpg.rf.52cf165cb7da1e342d5ca12c71176c94.jpg
+CHECK_SMALL_DIMENSION: train/images/im1123ages_jpg.rf.c10e286edad973e012859dee2926be2a.jpg
+CHECK_SMALL_DIMENSION: train/images/im2313ages_jpg.rf.9a1e75bc34ab95581225a6b834012eec.jpg
+CHECK_SMALL_DIMENSION: train/images/im323ages_jpg.rf.c4bc3da09c9fc30003ae0fce8c55f7c8.jpg
+CHECK_SMALL_DIMENSION: train/images/ima32ges_jpg.rf.9015ab607de476586ac826c2f92348ce.jpg
+CHECK_SMALL_DIMENSION: train/images/ima33ges_jpg.rf.32de4d4b80e5a950b287af389937d3c1.jpg
+CHECK_SMALL_DIMENSION: train/images/imag123es_jpg.rf.920d2a09779d31ded926adc1c7ec2117.jpg
+CHECK_SMALL_DIMENSION: train/images/imag4124es_jpg.rf.faff2607a6327d7f29e69bab0da3c4a3.jpg
+CHECK_SMALL_DIMENSION: train/images/image23123s_jpg.rf.b31a44b38dbe9b9fcff5e32a275939ff.jpg
+CHECK_SMALL_DIMENSION: train/images/image3213s_jpg.rf.08c3c06fe7d9053fffac5baec9d4e8be.jpg
+CHECK_SMALL_DIMENSION: train/images/image33s_jpg.rf.19458a9a7ae87a462ba1426a0c1e670a.jpg
+CHECK_SMALL_DIMENSION: train/images/image4124s_jpg.rf.372f9de8953ee3c2a03cd1d9e056da71.jpg
+CHECK_SMALL_DIMENSION: train/images/images2_jpg.rf.76dee58dd3c331ac97e9fa8e18b4a0c5.jpg
+CHECK_SMALL_DIMENSION: train/images/images32_jpg.rf.e4d9c5ed363c60b7548051cb33b06825.jpg
+CHECK_SMALL_DIMENSION: train/images/images4124_jpg.rf.f5821eede18b61baeffa3995605e9c60.jpg
+CHECK_SMALL_DIMENSION: train/images/images44444_jpg.rf.f29e975b3f926c25f056f724fce6f28f.jpg
+CHECK_SMALL_DIMENSION: train/images/images_jpg.rf.0826128c1a9738cfce8fa044e9a10a03.jpg
+CHECK_SMALL_DIMENSION: train/images/imagesads_jpg.rf.835a7d1f7d1b079609316912291ccc41.jpg
+CHECK_SMALL_DIMENSION: train/images/imagezxczs_jpg.rf.0313f3821d55284a5f0dcf1d5b4c3ee9.jpg
+CHECK_SMALL_DIMENSION: train/images/imagqwdqe23123s_jpg.rf.f7eaa9fd96228fb9a77bfcbb6ab452a9.jpg
+CHECK_SMALL_DIMENSION: train/images/imagzxczes_jpg.rf.e4e55ba32e21c20f702b0a0429250cd1.jpg
+CHECK_SMALL_DIMENSION: train/images/img-286_jpg.rf.e4727926f3c644d640f23ffd52682af0.jpg
+CHECK_SMALL_DIMENSION: train/images/img-287_jpg.rf.78769b00042f3e64cfac6b5b231585d1.jpg
+CHECK_SMALL_DIMENSION: train/images/img-288_jpg.rf.a9b6c835e88b90b2c6580230d39709f3.jpg
+CHECK_SMALL_DIMENSION: train/images/img-289_jpg.rf.8187c570ddca2aa43fc1706482e8ed83.jpg
+CHECK_SMALL_DIMENSION: train/images/img-291_jpg.rf.cc88880cf716b57291853656823c6c67.jpg
+CHECK_SMALL_DIMENSION: train/images/img-294_jpg.rf.1b48c3ccddb362f269ac80511c9aa0be.jpg
+CHECK_SMALL_DIMENSION: train/images/img-295_jpg.rf.7ae0969579b5081b64f5bab82e0bdce6.jpg
+CHECK_SMALL_DIMENSION: train/images/img-298_jpg.rf.16b7f52102878b9fd656b9ef105f4d4c.jpg
+CHECK_SMALL_DIMENSION: train/images/img-299_jpg.rf.17c47b6c83dcfe91614d98ef31c4fa31.jpg
+CHECK_SMALL_DIMENSION: train/images/img-300_jpg.rf.adef9daf392ac2f2eb9d43e7d831d78e.jpg
+CHECK_SMALL_DIMENSION: train/images/img-301_jpg.rf.b33ff746d0f157efd77ea888dee6a71c.jpg
+CHECK_SMALL_DIMENSION: train/images/img-302_jpg.rf.c35300ed8f6a4c1329a8b8f5770989d8.jpg
+CHECK_SMALL_DIMENSION: train/images/img-303_jpg.rf.c5ca0a2069e2bb1a658c0e7bdadf8360.jpg
+CHECK_SMALL_DIMENSION: train/images/img-305_jpg.rf.54baf9b15fc76cb84f9c5c0409264059.jpg
+CHECK_SMALL_DIMENSION: train/images/img-306_jpg.rf.e94b321811affdecbb7810ce02342b95.jpg
+CHECK_SMALL_DIMENSION: train/images/img-307_jpg.rf.fd3f75fe8ff61787d43e3fbf58220fa6.jpg
+CHECK_SMALL_DIMENSION: train/images/img-308_jpg.rf.7310133be8c459812e88c73398b91cb1.jpg
+CHECK_SMALL_DIMENSION: train/images/img-309_jpg.rf.2ae5e7f36d5b6369aa4512818f08c6cb.jpg
+CHECK_SMALL_DIMENSION: train/images/img-311_jpg.rf.21190108b59dbdc535e97f41e97f2ed0.jpg
+CHECK_SMALL_DIMENSION: train/images/img-312_jpg.rf.5d8e97e670c7690c87c24a688e6054c1.jpg
+CHECK_SMALL_DIMENSION: train/images/img-313_jpg.rf.b21448011e6e7c5362027e79e871c54c.jpg
+CHECK_SMALL_DIMENSION: train/images/img-314_jpg.rf.efec96730922ff19934336357ffdd7be.jpg
+CHECK_SMALL_DIMENSION: train/images/img-315_jpg.rf.e116b2c3355bba41e57608fbb59e27d3.jpg
+CHECK_SMALL_DIMENSION: train/images/img-316_jpg.rf.b3a238c62867f3680c0956d6b9a6007b.jpg
+CHECK_SMALL_DIMENSION: train/images/img-318_jpg.rf.3ffb9119f7cce5eeadccfa22a4f891ea.jpg
+CHECK_SMALL_DIMENSION: train/images/img-319_jpg.rf.30fafa6c90ac1ff00ba870217b96fc95.jpg
+CHECK_SMALL_DIMENSION: train/images/img-320_jpg.rf.86048225e0b0bea3d5565caeb89ec606.jpg
+CHECK_SMALL_DIMENSION: train/images/img-321_jpg.rf.dff8da26a29b1be23ef618376cfbf414.jpg
+CHECK_SMALL_DIMENSION: train/images/img-322_jpg.rf.9ac9206c6ffd81284eb2cf03aa30f55d.jpg
+CHECK_SMALL_DIMENSION: train/images/img-324_jpg.rf.6046d49826d58f44158b428d648fa4c2.jpg
+CHECK_SMALL_DIMENSION: train/images/img-326_jpg.rf.72ad87f5347c9f02d2d5ecbdb57eb03d.jpg
+CHECK_SMALL_DIMENSION: train/images/img-327_jpg.rf.a6032db96ee77e641a91adb8f6d99263.jpg
+CHECK_SMALL_DIMENSION: train/images/img-329_jpg.rf.836a0c9bdd76f111a1130ea863390ae6.jpg
+CHECK_SMALL_DIMENSION: train/images/img-331_jpg.rf.a65ebbf46d8aca1e770a22683ed4e979.jpg
+CHECK_SMALL_DIMENSION: train/images/img-332_jpg.rf.4ddd379197a9bdbccb3f0be67382ccfe.jpg
+CHECK_SMALL_DIMENSION: train/images/img-334_jpg.rf.db78ecb35a6d7bc90258520d110e57ef.jpg
+CHECK_SMALL_DIMENSION: train/images/img-337_jpg.rf.a9835c31ef927784a8a49d89c65c3bb8.jpg
+CHECK_SMALL_DIMENSION: train/images/img-338_jpg.rf.dfc85405a2a3d7afef0e95ee19210b67.jpg
+CHECK_SMALL_DIMENSION: train/images/img-339_jpg.rf.34785843e7f904d149f3ae5ea354b401.jpg
+CHECK_SMALL_DIMENSION: train/images/img-340_jpg.rf.0d1a392d3c80c31b337edf97c6de72c6.jpg
+CHECK_SMALL_DIMENSION: train/images/img-341_jpg.rf.fe092ecc892b7a9f20756c5e28c466be.jpg
+CHECK_SMALL_DIMENSION: train/images/img-343_jpg.rf.071b07add3c6aeb323c4c8977daf59e2.jpg
+CHECK_SMALL_DIMENSION: train/images/img-344_jpg.rf.14863fa228b504355f774b4349916880.jpg
+CHECK_SMALL_DIMENSION: train/images/img-349_jpg.rf.f1c00e2d2e3ec3e7fb3bcd404ff84485.jpg
+CHECK_SMALL_DIMENSION: train/images/img-350_jpg.rf.df524c26c36fce72fe24b55e9852cc56.jpg
+CHECK_SMALL_DIMENSION: train/images/img-352_jpg.rf.ff100097fef9b20215086a7bdb054729.jpg
+CHECK_SMALL_DIMENSION: train/images/img-353_jpg.rf.4d074879444d61d71d6229f60c0c8ce5.jpg
+CHECK_SMALL_DIMENSION: train/images/img-354_jpg.rf.8a59ab6d6b7a2c2b72ded0a2135e2cd1.jpg
+CHECK_SMALL_DIMENSION: train/images/img-356_jpg.rf.86a14158bb446f05db82d72a67f47350.jpg
+CHECK_SMALL_DIMENSION: train/images/img-359_jpg.rf.cef98ef3863a06dd821511bf82ead337.jpg
+CHECK_SMALL_DIMENSION: train/images/img-362_jpg.rf.306b4401c210b816bb9511bea2a5d793.jpg
+CHECK_SMALL_DIMENSION: train/images/img-363_jpg.rf.068fd1b8d801dc4c3a54a326e5f8450e.jpg
+CHECK_SMALL_DIMENSION: train/images/img-366_jpg.rf.8433ab6948dc716e1adb6b78b020625c.jpg
+CHECK_SMALL_DIMENSION: train/images/img-368_jpg.rf.fca4a92743db885887d12e324cb7b285.jpg
+... 351 more dimension flags listed in CSV
+Errors (unreadable images, missing labels, etc.): 0
+
+INTERPRETATION
+--------------------------------------------------------------------
+This script only inspects files. It does not resize, convert, move, rename, or delete anything.
+Dimension flags are prompts for review, not automatic failures.
+Empty labels are counted as background images, but visual inspection is needed to confirm they contain no pothole.
+Metadata checks cannot confirm that bounding boxes correctly surround potholes.
+Detailed CSV: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/image_sanity_details.csv

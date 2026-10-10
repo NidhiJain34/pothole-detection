@@ -1,0 +1,69 @@
+FINAL DATASET VALIDATION REPORT
+============================================================
+Dataset: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts
+Expected YOLO format: class x_center y_center width height
+
+TRAIN
+----------------------------------------
+Images: 22791
+Label files: 22791
+Images missing labels: 0
+Orphan label files: 0
+Annotated images (estimated): 11375
+Empty-label/background images: 11416
+Valid bounding boxes counted: 27153
+Unreadable/corrupt images: 0
+Invalid annotation lines: 0
+Unreadable label files: 0
+Class IDs found: {0: 27153}
+
+
+VALID
+----------------------------------------
+Images: 3256
+Label files: 3256
+Images missing labels: 0
+Orphan label files: 0
+Annotated images (estimated): 2377
+Empty-label/background images: 879
+Valid bounding boxes counted: 5721
+Unreadable/corrupt images: 0
+Invalid annotation lines: 0
+Unreadable label files: 0
+Class IDs found: {0: 5721}
+
+
+TEST
+----------------------------------------
+Images: 2245
+Label files: 2245
+Images missing labels: 0
+Orphan label files: 0
+Annotated images (estimated): 1270
+Empty-label/background images: 975
+Valid bounding boxes counted: 2986
+Unreadable/corrupt images: 0
+Invalid annotation lines: 0
+Unreadable label files: 0
+Class IDs found: {0: 2986}
+
+
+OVERALL SUMMARY
+============================================================
+Total images: 28292
+Total label files: 28292
+Total empty labels/backgrounds: 13270
+Total valid boxes counted: 35860
+Images missing labels: 0
+Orphan label files: 0
+Unreadable images: 0
+Invalid annotation lines: 0
+Unreadable label files: 0
+
+ERRORS:
+None detected by these checks.
+
+WARNINGS:
+None detected by these checks.
+
+NOTE: Empty label files are treated as background images. This script checks file/label structure and coordinate validity, not whether each box accurately surrounds a pothole.

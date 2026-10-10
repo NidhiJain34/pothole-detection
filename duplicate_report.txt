@@ -1,0 +1,176 @@
+Total images: 28358
+Unique contents: 28315
+Duplicate groups: 43
+Extra duplicate files: 43
+
+Duplicate group 1:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-325_jpg.rf.4a83b7673f16421447a58eff626ae18f.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-325_jpg.rf.909909e9289fbb2bc81a2ac479f4c4d8.jpg
+
+Duplicate group 2:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-358_jpg.rf.292fd275bf94a1b9d30354f2a45fffe2.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-358_jpg.rf.7e65c69e48f261107328608ba93a1182.jpg
+
+Duplicate group 3:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-361_jpg.rf.5bb9325f2975122cabee12d18916019d.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-361_jpg.rf.6f1f97219ce613562f51d3062a41d7ec.jpg
+
+Duplicate group 4:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-373_jpg.rf.4d2433e0f1bd9ba5fc1f1d067f78888e.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-373_jpg.rf.113d1376950c4b5eba59f8c9422509b3.jpg
+
+Duplicate group 5:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-377_jpg.rf.3ddb21c4b2ecc40e758c73574086844d.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-377_jpg.rf.7dd2a7e445d357698b4e7125d526cd5a.jpg
+
+Duplicate group 6:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-380_jpg.rf.514c9927cb668f05ae201cbad8bebc60.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-380_jpg.rf.2d56efed888901912b149ac189172aed.jpg
+
+Duplicate group 7:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-381_jpg.rf.2d7f4d7977fc2088d03eb4c19c5e4c90.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-381_jpg.rf.8c9f195595b8578ec4d3d33072156d55.jpg
+
+Duplicate group 8:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-387_jpg.rf.e2a4a309c31f87b0c5de6681ea237053.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-387_jpg.rf.1dbbb6a09bf3294dfc9821c54e8844b6.jpg
+
+Duplicate group 9:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-403_jpg.rf.63935b9f7775480f5a1bd1a3a3de6898.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/img-403_jpg.rf.e1dc8f696191b295de26b326a4b5716a.jpg
+
+Duplicate group 10:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-404_jpg.rf.23f9f3d9c739ec07b057489955810506.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-404_jpg.rf.d12d1d045f11552844f2f187dcbc499d.jpg
+
+Duplicate group 11:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-411_jpg.rf.878e0a3c41bdf4b8806101bce5f19dfd.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-411_jpg.rf.46c8f3f1b20807efac2b789634283d40.jpg
+
+Duplicate group 12:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-451_jpg.rf.8f495c0c81608a668fa2857516b8e2cb.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-451_jpg.rf.7930945017a0e3f7ae811d38b2cbc67a.jpg
+
+Duplicate group 13:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-456_jpg.rf.4566372311c5a8923a4cde38e4cd382b.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/img-456_jpg.rf.becb797a4df723de8fc217057916ba5c.jpg
+
+Duplicate group 14:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-463_jpg.rf.b10a88414288a9e8c453b1ac395ea263.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-463_jpg.rf.23c9ea342f2f48185910e8da673ae77d.jpg
+
+Duplicate group 15:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-469_jpg.rf.fc40a496624e1b5c9b73341d1872b093.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/img-469_jpg.rf.6969eaf2ffd3409376c3df746be7d1ae.jpg
+
+Duplicate group 16:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-516_jpg.rf.6e9f993400b779e19b66f1222c30a538.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-516_jpg.rf.a70241b57b15ed6e680089d374c809c7.jpg
+
+Duplicate group 17:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-526_jpg.rf.db46c81b1e47547ae3038f61146018c1.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-526_jpg.rf.2b311487481ba3611bb364cadb0efef5.jpg
+
+Duplicate group 18:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-527_jpg.rf.aca42f566a1ff739f0b649e2c008ccd6.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-527_jpg.rf.e5687efadf6cdcf5230b0e8cd2d95301.jpg
+
+Duplicate group 19:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-552_jpg.rf.9777003c54b79b06d94602327edf2f8f.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-552_jpg.rf.1e4386187f075cea9f1ecb8f350d09b3.jpg
+
+Duplicate group 20:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-583_jpg.rf.2e84d1c4a02c3b3686c9492b8cd6f7c4.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-583_jpg.rf.3370812571d14825196d47b8d85212d4.jpg
+
+Duplicate group 21:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-588_jpg.rf.1dcd654f17843806c113960e5710eb37.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-588_jpg.rf.b5314cac1a5f2b52563b417b978c9758.jpg
+
+Duplicate group 22:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-595_jpg.rf.64435c99f6f528a185f427c8b5f425aa.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/img-595_jpg.rf.6b7c783e87c2df3c5e5991d3175e487a.jpg
+
+Duplicate group 23:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-25-183557_frame_00063_jpg.rf.c6c777b14cd6a79a1c2e721344622a97.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-25-183557_frame_00063_jpg.rf.d8a42b79ffd3b6388fd5316689d1765d.jpg
+
+Duplicate group 24:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-25-183557_frame_00081_jpg.rf.509ed315a520bf28e777f8cbd117ef06.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-25-183557_frame_00081_jpg.rf.91f114a1ce3ef82bf45a067d32f49300.jpg
+
+Duplicate group 25:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00011_jpg.rf.77378a302ef32e2be1c6925d51281e8f.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00011_jpg.rf.d65100ed55fde690504b2de7938f29e3.jpg
+
+Duplicate group 26:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00025_jpg.rf.bf12ccf622952fbb9819f97f767ef6b5.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00025_jpg.rf.dea6cb47d4dd593ee1609592744b7d1c.jpg
+
+Duplicate group 27:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00046_jpg.rf.bbecd9f4e1889254fa41552606f12d62.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00046_jpg.rf.e53990075918f632517a5d5becfbc48b.jpg
+
+Duplicate group 28:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00062_jpg.rf.064786ce0a2b34fdd232e876671e6edb.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00062_jpg.rf.b5a8efa9127d2e66c2527405a1fc3afe.jpg
+
+Duplicate group 29:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00082_jpg.rf.70358a7faa0952a5052a17c62e465744.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00082_jpg.rf.98a8785e536bef401d7293419a7510f4.jpg
+
+Duplicate group 30:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00094_jpg.rf.3a7dc30728bb9073e1f59d94532a74f4.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00094_jpg.rf.cec7f4d3802887a3d974abb5175b8457.jpg
+
+Duplicate group 31:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00095_jpg.rf.415cde9ea1a50a76545acc976d161f58.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00095_jpg.rf.5ed747093a70d9a4dfa6db91b9e34958.jpg
+
+Duplicate group 32:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00096_jpg.rf.1447b14969773a2d39ec8f83c40bf9a0.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_002_frame_00096_jpg.rf.79b13cc55de44f120eb01bd7fc75074f.jpg
+
+Duplicate group 33:
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_frame_00004_jpg.rf.de31891a732a459583d8eafc52ce891f.jpg
+[train] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/train/images/signal-2025-06-26-111944_frame_00004_jpg.rf.ff858d82584b66cb944b989a8567f272.jpg
+
+Duplicate group 34:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/img-427_jpg.rf.3393b8a5af8cfb577b670f5129ef0397.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/img-427_jpg.rf.80c7aa47c9b17e613b684841e0a03391.jpg
+
+Duplicate group 35:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-25-183557_frame_00026_jpg.rf.0baab2c5e9cbb6a0e49c5ca7ed1283ab.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-25-183557_frame_00026_jpg.rf.b93b80463fc75aa4763998b4fb60b859.jpg
+
+Duplicate group 36:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-25-183557_frame_00055_jpg.rf.31d8a4fe03b66e4f17b64c4bce743db1.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-25-183557_frame_00055_jpg.rf.6e1adce0eeb9ea4d22ab61336bebf479.jpg
+
+Duplicate group 37:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-25-183557_frame_00065_jpg.rf.250d84e00359b59f359421ad4dbd699a.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-25-183557_frame_00065_jpg.rf.ef302955b7a6f2c85fd34485863305f0.jpg
+
+Duplicate group 38:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-26-111944_002_frame_00024_jpg.rf.5b46c563eaf1f5474a69001fbf2484e5.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-26-111944_002_frame_00024_jpg.rf.6307b896dc692942c9003c3d30463947.jpg
+
+Duplicate group 39:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-26-111944_002_frame_00097_jpg.rf.adb60e754cc8aa7429016489abf37171.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-26-111944_002_frame_00097_jpg.rf.f25d9cc027f53ba2aa281e0cb3db92ae.jpg
+
+Duplicate group 40:
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-26-111944_frame_00024_jpg.rf.810a32fff7c05f4740fd685bb486d33d.jpg
+[valid] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/valid/images/signal-2025-06-26-111944_frame_00024_jpg.rf.db84f49e1fd1d028e35160eab8e01f25.jpg
+
+Duplicate group 41:
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/signal-2025-06-26-111944_002_frame_00021_jpg.rf.a34ef69f8be6a7f5d7664c4057083a22.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/signal-2025-06-26-111944_002_frame_00021_jpg.rf.e26d0896ace41dfa2a4fc74b54833c57.jpg
+
+Duplicate group 42:
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/signal-2025-06-26-111944_frame_00071_jpg.rf.707ebceb5f694ecc44fb1c701aa07818.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/signal-2025-06-26-111944_frame_00071_jpg.rf.770ae89b77d21b2152906ab302d148ec.jpg
+
+Duplicate group 43:
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/signal-2025-06-26-111944_frame_00085_jpg.rf.8729dd3d0a6be2db414f9392769babe9.jpg
+[test] /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/test/images/signal-2025-06-26-111944_frame_00085_jpg.rf.87bf5e43a1882791bb4495db26728ba5.jpg

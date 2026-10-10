@@ -1,0 +1,81 @@
+PREPROCESSING READINESS REPORT
+============================================================
+Dataset: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts
+No images were resized, recompressed, moved, or deleted by this script.
+
+TRAIN
+----------------------------------------
+Images: 22791
+Label files: 22791
+Annotated images: 11375
+Empty-label/background images: 11416
+Bounding boxes: 27153
+Class IDs: {0: 27153}
+Most common image dimensions:
+  640x640: 10043
+  720x720: 8495
+  960x544: 1010
+  1280x720: 691
+  544x960: 516
+  1100x825: 512
+  3680x2760: 479
+  2400x1800: 366
+  1920x1080: 156
+  720x1280: 60
+
+VALID
+----------------------------------------
+Images: 3256
+Label files: 3256
+Annotated images: 2377
+Empty-label/background images: 879
+Bounding boxes: 5721
+Class IDs: {0: 5721}
+Most common image dimensions:
+  640x640: 1234
+  720x720: 806
+  960x544: 270
+  1280x720: 189
+  544x960: 158
+  3680x2760: 154
+  1100x825: 148
+  2400x1800: 87
+  1920x1080: 55
+  720x1280: 26
+
+TEST
+----------------------------------------
+Images: 2245
+Label files: 2245
+Annotated images: 1270
+Empty-label/background images: 975
+Bounding boxes: 2986
+Class IDs: {0: 2986}
+Most common image dimensions:
+  640x640: 862
+  720x720: 776
+  960x544: 138
+  1280x720: 99
+  544x960: 76
+  1100x825: 75
+  3680x2760: 68
+  2400x1800: 50
+  1920x1080: 20
+  720x1280: 11
+
+OVERALL
+============================================================
+Total images: 28292
+Total boxes: 35860
+Total background images: 13270
+Distinct image dimensions: 237
+Final YAML written: YES
+YAML path: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/data_final_cleaned.yaml
+
+ERRORS:
+None.
+
+WARNINGS:
+None.
+
+Note: this checks dataset structure and annotation format, not the visual correctness of every pothole box.

@@ -1,0 +1,69 @@
+YOLO PRE-TRAINING HARDWARE AND CONFIG CHECK
+================================================================
+This script does NOT start training or change dataset files.
+Project root: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26
+Python executable: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/.venv/bin/python
+Python version: 3.11.15
+
+PYTORCH / CUDA
+----------------------------------------------------------------
+PyTorch: NOT INSTALLED in this Python environment
+
+NVIDIA DRIVER
+----------------------------------------------------------------
+Fri Oct  9 15:12:26 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 595.84                 Driver Version: 595.84         CUDA Version: 13.2     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA RTX A4000               Off |   00000000:2D:00.0  On |                  Off |
+| 41%   36C    P8             16W /  140W |    1389MiB /  16376MiB |     35%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|    0   N/A  N/A            2479      G   /usr/lib/xorg/Xorg                      277MiB |
+|    0   N/A  N/A            2659      G   /usr/bin/gnome-shell                    246MiB |
+|    0   N/A  N/A           22803      G   .../8969/usr/lib/firefox/firefox        637MiB |
+|    0   N/A  N/A           30715      G   ...rack-uuid=3190708988185955192        141MiB |
++-----------------------------------------------------------------------------------------+
+
+ULTRALYTICS
+----------------------------------------------------------------
+Ultralytics: NOT INSTALLED in this Python environment
+
+DATA YAML AND DATASET PATHS
+----------------------------------------------------------------
+YAML exists: True — /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/data_final_cleaned.yaml
+YAML contents:
+  path: '/home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts'
+  train: train/images
+  val: valid/images
+  test: test/images
+  nc: 1
+  names: ['pothole']
+Dataset folder exists: True — /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts
+train: images=22,791, label files=22,791
+valid: images=3,256, label files=3,256
+test: images=2,245, label files=2,245
+
+MODEL WEIGHTS
+----------------------------------------------------------------
+yolo26n.pt was not found in common local locations.
+Ultralytics may download weights automatically if the installed version supports this and internet is available.
+Do not download weights from an untrusted source.
+
+RECOMMENDED NEXT ACTION
+----------------------------------------------------------------
+STATUS: REVIEW ITEMS BEFORE TRAINING
+- PyTorch is missing from the project virtual environment.
+- Ultralytics is missing from the project virtual environment.
+
+No training was started.

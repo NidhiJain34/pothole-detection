@@ -1,0 +1,16 @@
+YOLO DATA CONFIGURATION CHECK
+=======================================================
+YAML: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/data_final_cleaned.yaml
+Dataset root: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts
+Class count: 1
+Class names: ['pothole']
+
+Resolved splits:
+train: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts/train/images (22791 images)
+val: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts/valid/images (3256 images)
+test: /home/CL502-13/Downloads/latestmergedproject2.v1i.yolo26/final_cleaned_dataset_no_conflicts/test/images (2245 images)
+
+Errors:
+None
+
+Status: PASSED — configuration and paths match the cleaned dataset
