@@ -1,3 +1,4 @@
+
 # Pothole Detection Using YOLO26
 
 ## Overview
@@ -41,3 +42,5 @@ The model was evaluated on 2,245 test images.
 
 ## Notes
 The dataset, trained model weights, virtual environment, and training outputs are excluded from GitHub.
+# pothole-detection
+A pothole detection project focused on road damage identification using computer vision, dataset preprocessing, image and annotation validation, duplicate detection, and machine learning model training and evaluation.
