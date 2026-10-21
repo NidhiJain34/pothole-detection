@@ -1,46 +1,52 @@
+# Pothole Detection Using YOLO26 and RF-DETR
 
-# Pothole Detection Using YOLO26
+A computer vision project focused on detecting potholes in road images using object detection models. The project includes dataset cleaning, annotation validation, duplicate detection, model training, and performance evaluation.
 
 ## Overview
-A computer vision project that detects potholes in road images using the YOLO26 object detection model.
+
+Road potholes can affect road safety and vehicle conditions. This project explores object detection models to identify potholes in road images.
+
+The project experiments with two approaches:
+- **YOLO26n:** Lightweight object detection with checkpoint comparison and fine-tuning.
+- **RF-DETR Nano:** Transformer-based object detection with multiple training experiments.
 
 ## Features
+
 - Dataset cleaning and duplicate detection
 - Annotation and label validation
 - Background image preparation
-- YOLO dataset configuration
-- Model training and evaluation
+- YOLO-format dataset preparation
+- YOLO26 checkpoint comparison
+- YOLO26 model fine-tuning
+- RF-DETR training and evaluation
+- Validation and test performance analysis
 
 ## Dataset
-The dataset contains pothole images and background images without potholes. The dataset is excluded from this repository because of its large size.
 
-## Model
-YOLO26n trained on a cleaned pothole dataset.
+The project uses a cleaned pothole detection dataset in YOLO format.
 
-## Test Results
-The model was evaluated on 2,245 test images.
+Dataset splits:
 
-| Metric | Result |
+| Split | Number of images |
 |---|---:|
-| Precision | 76.4% |
-| Recall | 59.7% |
-| mAP@50 | 67.4% |
-| mAP@50–95 | 33.9% |
+| Training | 22,791 |
+| Validation | 3,256 |
+| Testing | 2,245 |
+| **Total** | **28,292** |
 
-## Requirements
-- Python 3.11
-- PyTorch
-- Ultralytics
-- CUDA-compatible GPU recommended
+The dataset contains pothole images with object annotations. The dataset files are not included in this repository because of their size.
 
-## Usage
-1. Clone this repository.
-2. Install the required dependencies.
-3. Prepare the dataset in YOLO format.
-4. Update the dataset paths if necessary.
-5. Run the training or evaluation scripts.
+Expected directory structure:
 
-## Notes
-The dataset, trained model weights, virtual environment, and training outputs are excluded from GitHub.
-# pothole-detection
-A pothole detection project focused on road damage identification using computer vision, dataset preprocessing, image and annotation validation, duplicate detection, and machine learning model training and evaluation.
+```text
+final_cleaned_dataset_no_conflicts/
+├── train/
+│   ├── images/
+│   └── labels/
+├── valid/
+│   ├── images/
+│   └── labels/
+├── test/
+│   ├── images/
+│   └── labels/
+└── data.yaml
